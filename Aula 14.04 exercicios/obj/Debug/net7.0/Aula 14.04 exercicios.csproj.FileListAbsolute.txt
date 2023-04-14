@@ -1,0 +1,15 @@
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\bin\Debug\net7.0\Aula 14.04 exercicios.exe
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\bin\Debug\net7.0\Aula 14.04 exercicios.deps.json
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\bin\Debug\net7.0\Aula 14.04 exercicios.runtimeconfig.json
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\bin\Debug\net7.0\Aula 14.04 exercicios.dll
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\bin\Debug\net7.0\Aula 14.04 exercicios.pdb
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\obj\Debug\net7.0\Aula 14.04 exercicios.csproj.AssemblyReference.cache
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\obj\Debug\net7.0\Aula 14.04 exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\obj\Debug\net7.0\Aula 14.04 exercicios.AssemblyInfoInputs.cache
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\obj\Debug\net7.0\Aula 14.04 exercicios.AssemblyInfo.cs
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\obj\Debug\net7.0\Aula 14.04 exercicios.csproj.CoreCompileInputs.cache
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\obj\Debug\net7.0\Aula 14.04 exercicios.dll
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\obj\Debug\net7.0\refint\Aula 14.04 exercicios.dll
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\obj\Debug\net7.0\Aula 14.04 exercicios.pdb
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\obj\Debug\net7.0\Aula 14.04 exercicios.genruntimeconfig.cache
+C:\Users\1185849874\Desktop\Aula 14.04 exercicios\obj\Debug\net7.0\ref\Aula 14.04 exercicios.dll
