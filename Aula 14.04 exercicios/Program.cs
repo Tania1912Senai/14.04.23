@@ -34,10 +34,34 @@
 //da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente
 //sabendo-se que o preço do litro da gasolina é R$ 5,30 e o preço do litro do álcool é R$ 4,90.
 //Dica: utilize switch case e funções/métodos para otimizar o algorítimo.
-
-
-
-
+//float para alccol e gasolina
+//const float precoAlcool = 4,90f;
+//const float precoGasolina = 5,30f;
+//float quantidadeAlcool;
+//float quantidadeGasolina;
+//float valorAbastecido;
+//cliente tem que escolher a opcao
+//char opcao;
+//cliente escolhe com A ou G
+//Console.WriteLine
+//(@$"Informe o combustivel de sua preferencia
+//(A) - Alcool (B) - Gasolina");
+//switch (opcao)
+//    Case'A':
+//       Console.WriteLine($"Informe quantidade de litros:");
+//        quantidadeAlcool = float.Parse (Console.ReadLine());                  
+//        valorAbastecido = Alcool(quantidadeAlcool,precoAlcool);
+//        Console.WriteLine($"O valor a ser pago:{valorAbastecido}");
+//        break;
+//    Case'B':
+//        Console.WriteLine($"Informe quantidade de litros:");
+//        quantidadeGasolina = float.Parse (Console.ReadLine());
+//        valorAbastecido = Gasolina(quantidadeGasolina,precoGasolina);
+//        Console.WriteLine($"O valor a ser pago:{valorAbastecido}");
+//        break;
+//    default: 
+//        Console.Writeline($"Operacao invalida, nao informou corretamente");
+//        break;
 
 //3 - Faça um algoritmo para ler: a descrição do produto (nome), a quantidade adquirida e o
 // preço unitário. Calcular e escrever o total (total = quantidade adquirida * preço unitário), o
@@ -52,6 +76,39 @@
 
 // 4 - Faça um programa que leia 10 valores digitados pelo usuário e no final, escreva o maior e o
 // menor valor lido.
+//solicite 10 numeros, leia os numeros digitados e informe o maior e o menor numero digitado
+//int = N1,N2,N3,N4,N5,N6,N7,N8,N9 e N10
+//tem que buscar, a variavel maior e variavel menor
+//Console.WriteLine($"Informe valor de N1");
+//N1 = Int32.Parse(Console.RediLine());
+//Console.WriteLine($"Informe valor de N2");
+//N2 = Int32.Parse(Console.RediLine());
+//Console.WriteLine($"Informe valor de N3");
+//N3 = Int32.Parse(Console.RediLine());
+//Console.WriteLine($"Informe valor de N4");
+//N4 = Int32.Parse(Console.RediLine());
+//Console.WriteLine($"Informe valor de N5");
+//N5 = Int32.Parse(Console.RediLine());
+//Console.WriteLine($"Informe valor de N6");
+//N6 = Int32.Parse(Console.RediLine());
+//Console.WriteLine($"Informe valor de N7");
+//N7 = Int32.Parse(Console.RediLine());
+//Console.WriteLine($"Informe valor de N8");
+//N8 = Int32.Parse(Console.RediLine());
+//Console.WriteLine($"Informe valor de N9");
+//N9 = Int32.Parse(Console.RediLine());
+//Console.WriteLine($"Informe valor de N10");
+//N10 = Int32.Parse(Console.RediLine());
+// usar if
+//Para achar o N maior e N menor compara cada N um a um
+//Exemplo
+// if((N1>= N2) && (N1>=N3) && (N1>=N4) && (N1>=N5) && (N1>=N6) && (N1>= N7) && (N1>=N8) && (N1>=N9) && (N1>=N10))
+//{ Maior = N1;
+//Console.WriteLine($"O numero N1 maior: {0}", maior);
+//Console.WriteLine();
+//}
+//else
+
 
 
 
