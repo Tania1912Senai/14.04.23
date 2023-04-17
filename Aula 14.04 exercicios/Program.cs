@@ -1,4 +1,4 @@
-﻿//Exercicio de Fixacao
+//Exercicio de Fixacao e Atividade
 //
 //1 - Ler o ano atual e o ano de nascimento de uma pessoa. Escrever uma mensagem que diga se
 
@@ -110,20 +110,12 @@
 //else
 
 
-
-
 // 5 - Escreva um algoritmo que imprima a tabuada (de 1 a 10) para os números de 1 a 10.
 // Exemplo: tabuada do 1, tabuada do 2, etc... Dica: utilize um laço dentro do outro.
-
-
-
 // Recebe as Variaveis
 int formula, contador, numero;
-
-
 Console.Write("Digite o Numero para Obter a Taboada : ");
 numero = Int32.Parse(Console.ReadLine());
-
 //para
 for (contador = 1; contador <= 10; contador++)
 {
@@ -133,25 +125,27 @@ for (contador = 1; contador <= 10; contador++)
 }
 
 
-
-
-
 // Vetores:
 // 6 - Escreva um algoritmo que permita a leitura dos nomes de 10 pessoas e armazene os nomes
 // lidos em um vetor. Após isto, o algoritmo deve permitir a leitura de mais 1 nome qualquer de
 // pessoa (para efetuar uma busca) e depois escrever a mensagem ACHEI, se o nome estiver
 // entre os 10 nomes lidos anteriormente (guardados no vetor), ou NÃO ACHEI caso contrário.
-static void Main()
-{
-    int[] teste = new int []
-    {a=Richard, b=Eduardo, c=Marcio, D=Paulo,
-     e=Allan, f=Andre, g=Maria, h=Ana, i=Julia, j=Evelyn;} 
+//Tentativa de Resolucao
+// nomes: vetor [1..10] de caracter
+// nome: caracter
+// i: inteiro
+// para i de 1 ate 10 
+// Console.WriteLine($"Digite o ", i, "º nome")
+// Console.ReadLine(nomes[i])
+ 
+// Console.WriteLine("Agora, digte novamente um nome entre os dez.")
+// Console.ReadLine(nome)
 
+// se encontrou nome i = verdadeiro
+// escreval("Achei")
+// senao
+//escreva("Eu não achei!")
 
-    
-    
-
-}
 // 7 - Faça um algoritmo para ler 15 números e armazenar em um vetor. Após a leitura total dos
 // 15 números, o algoritmo deve escrever esses 15 números lidos na ordem inversa da qual foi
 // declarado.
